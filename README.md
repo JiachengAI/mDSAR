@@ -35,3 +35,5 @@ HRSID_100/
 ```
 
 本项目实验中将输入图像统一处理为 256 × 256，并分别选取 100 幅图像进行测试。
+这是我们在压缩感知25%各个方法对比图
+<img width="1637" height="903" alt="image" src="https://github.com/user-attachments/assets/472f31b7-df5d-4dc9-afa2-e970f697919b" />
