@@ -1,4 +1,4 @@
-# mDSAR-
+# mDSAR
 Zero-Shot SAR Image Restoration via Dual Statistical Adaptive Regularization
 ## 预训练模型
 
